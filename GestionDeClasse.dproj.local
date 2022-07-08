@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/08 21:26:34.000.989,=C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 21:51:41.000.295,=C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 21:54:23.000.133,C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Principale.dfm=C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2022/07/08 21:54:23.000.133,C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Principale.pas=C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 21:54:41.000.752,C:\Users\Clement\Documents\Github\GestionDeClasse\Principale.dfm=C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Principale.dfm</Transaction>
+    <Transaction>2022/07/08 21:54:41.000.752,C:\Users\Clement\Documents\Github\GestionDeClasse\Principale.pas=C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Principale.pas</Transaction>
+    <Transaction>2022/07/08 21:54:49.000.591,C:\Users\Clement\Documents\Github\GestionDeClasse\GestionDeClasse.dproj=C:\Users\Clement\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
